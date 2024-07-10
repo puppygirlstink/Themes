@@ -1,5 +1,5 @@
 {
-    "name": "Vendetta Yellow v1",
+    "name": "Vendetta Yellow v1.1",
     "description": "An Amoled theme based on Vendetta Teal Amoled theme 1.2.3 by TakiShiwa.",
   "authors": [
       {
@@ -17,16 +17,16 @@
             "#9B8747"
         ],
         "BACKGROUND_MENTIONED": [
-            "#0038375a",
-            "#0038375a"
+            "#595137",
+            "#595137"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#0038375a",
-            "#0038375a"
+            "#595137",
+            "#595137"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#0038375a",
-            "#0038375a"
+            "#595137",
+            "#595137"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000",
@@ -37,24 +37,24 @@
             "#060607"
         ],
         "BACKGROUND_ACCENT": [
-            "#0f7577",
-            "#0f7577"
+            "755D0F",
+            "755D0F"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#D1A5179a",
-            "#D1A5179a"
+            "#D1A517",
+            "#D1A517"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#685000",
             "#685000"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#0038375a",
-            "#0038375a"
+            "#595137",
+            "#595137"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#D1A5176a",
-            "#D1A5176a"
+            "#D1A517",
+            "#D1A517"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#000000",
@@ -77,8 +77,8 @@
             "#060607"
         ],
         "CHANNELS_DEFAULT": [
-            "#617b7a",
-            "#617b7a"			
+            "#7A7460",
+            "#7A7460"			
         ],
         "CHANNEL_ICON": [
             "#685000",
@@ -141,8 +141,8 @@
             "#fdd651"
         ],
         "DISPLAY_BANNER_OVERFLOW_BACKGROUND": [
-            "#00383780",
-            "#00383780"
+            "#7F6E36",
+            "#7F6E36"
         ],
         "ELEVATION_HIGH": [
             "#B79A3A",
@@ -189,8 +189,8 @@
             "#fdd651"
         ],
         "INFO_DANGER_FOREGROUND": [
-            "#248282",
-            "#248282"
+            "#7F6A23",
+            "#7F6A23"
         ],
         "INFO_DANGER_TEXT": [
             "#fb4934",
@@ -237,20 +237,20 @@
             "#FFECAF"
         ],
         "INTERACTIVE_HOVER": [
-            "#bac2de",
-            "#bac2de"
+            "#DDD5BA",
+            "#DDD5BA"
         ],
         "INTERACTIVE_MUTED": [
-            "#324c4b",
-            "#324c4b"
+            "#494430",
+            "#494430"
         ],
         "INTERACTIVE_NORMAL": [
             "#fdd651",
             "#fdd651"
         ],
         "LOGO_PRIMARY": [
-            "#83a598",
-            "#076678"
+            "#A39B82",
+            "#775D07"
         ],
         "MODAL_FOOTER_BACKGROUND": [
             "#9B8747",
@@ -265,16 +265,16 @@
             "#9B8747"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#0038375a",
-            "#0038375a"
+            "#595137",
+            "#595137"
         ],
         "SCROLLBAR_AUTO_TRACK": [
             "#060607",
             "#060607"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#0038375a",
-            "#0038375a"
+            "#595137",
+            "#595137"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "#00000000",
@@ -289,8 +289,8 @@
             "#9d0006"
         ],
         "STATUS_DANGER_TEXT": [
-            "#83a598",
-            "#076678"
+            "#A39B82",
+            "#775D07"
         ],
         "STATUS_POSITIVE_BACKGROUND": [
             "#B79A3A",
@@ -309,24 +309,24 @@
             "#000000"
         ],
         "TEXTBOX_MARKDOWN_SYNTAX": [
-            "#74c7ec",
-            "#74c7ec"
+            "#EACF75",
+            "#EACF75"
         ],
         "TEXT_DANGER": [
             "#fb4934",
             "#9d0006"
         ],
         "TEXT_LINK": [
-            "#b4befe",
-            "#7680C0"
+            "#FCEBB3",
+            "#BFAE76"
         ],
         "TEXT_LINK_LOW_SATURATION": [
             "#FFECAF",
             "#FFECAF"
         ],
         "TEXT_MUTED": [
-            "#80d4d2",
-            "#80d4d2"
+            "#D3C081",
+            "#D3C081"
         ],
         "TEXT_NORMAL": [
             "#FFECAF",
@@ -341,8 +341,8 @@
             "#9d0006"
         ],
         "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-            "#00383780",
-            "#00383780"
+            "#7F6E36",
+            "#7F6E36"
         ]
   
     },
